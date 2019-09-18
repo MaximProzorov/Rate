@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rate", "Rate\Rate.csproj", "{30BD181C-43DF-4A5E-8F36-B9A01EB9B1F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RateModel", "RateModel\RateModel.csproj", "{B4980F4F-F4FE-4F80-9145-A8C577225E6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30BD181C-43DF-4A5E-8F36-B9A01EB9B1F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30BD181C-43DF-4A5E-8F36-B9A01EB9B1F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30BD181C-43DF-4A5E-8F36-B9A01EB9B1F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30BD181C-43DF-4A5E-8F36-B9A01EB9B1F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4980F4F-F4FE-4F80-9145-A8C577225E6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4980F4F-F4FE-4F80-9145-A8C577225E6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4980F4F-F4FE-4F80-9145-A8C577225E6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4980F4F-F4FE-4F80-9145-A8C577225E6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AEBF19A-1EF8-4BD3-9715-BFB64D25D821}
+	EndGlobalSection
+EndGlobal
